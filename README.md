@@ -7,7 +7,7 @@
 <p align="center">atualmente aprendendo:</p>
   
 <div align="center" style="display: inline-block">
-  <img align="center" alt="gmilanezz-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="gmilanezz-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
   <img align="center" alt="gmilanezz-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="gmilanezz-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div><br><br><br>
