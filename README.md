@@ -2,11 +2,11 @@
 <div align="center">
   <a href="https://github.com/gmilanezz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmilanezz&layout=compact&langs_count=7&theme=calm"/>
-</div>
+</div><br><br>
 
 <p align="center">atualmente aprendendo:</p>
   
-<div align="center" style="display: inline-block"><br><br>
+<div align="center" style="display: inline-block">
   <img align="center" alt="gmilanezz-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="gmilanezz-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="gmilanezz-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
