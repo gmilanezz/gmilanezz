@@ -1,16 +1,23 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A8E6CFe3&size=35&center=true&vCenter=true&width=1000&lines=hello+there,+my+name+is+Gabriel+Milanez;I'm+16+years+old;I+am+from+São+Paulo,+RJ;Be+Free!+:%29)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://github.com/gmilanezz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clauderlan&layout=compact&langs_count=7&theme=calm"/>
+</div>
+  
+<div align="center" style="display: inline-block"><br><br>
+  <img align="center" alt="gmilanezz-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="gmilanezz-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="gmilanezz-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div><br><br><br>
 
-<!--
-**gmilanezz/gmilanezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gmilanezz&bg_color=0B3D02&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/gabrielmilanez" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
+ 
+                  
