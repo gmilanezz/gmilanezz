@@ -1,10 +1,10 @@
 ## readme/gabriel milanez
 
-<p align="center">
+<p">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&width=1000&lines=Hello+there,+my+name+is+Gabriel+Milanez;Im+16;Im+from+São+Paulo;Be+Free!+p2p+" alt="Typing SVG">
   </a>
-  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=025" alt="Bitcoin Logo" height="40" width="40" style="margin-left: 10px;" />
+  <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=025" alt="Bitcoin Logo" height="35" style="margin-left: -40px; margin-top: 5px;" />
 </p>
 
 <div>
