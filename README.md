@@ -1,6 +1,6 @@
 ## readme/gabriel milanez
 
-<p">
+<p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&width=1000&lines=Hello+there,+my+name+is+Gabriel+Milanez;Im+16;Im+from+São+Paulo;Be+Free!+p2p+" alt="Typing SVG">
   </a>
