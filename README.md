@@ -1,16 +1,10 @@
 ## readme/gabriel milanez
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&width=1000&lines=Hello+there,+my+name+is+Gabriel+Milanez;Im+16;Im+from+São+Paulo;Be+Free!+p2p+" alt="Typing SVG">
-  </a>
-  <img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/128/color/bitcoin.png" alt="Bitcoin Logo" height="35" style="margin-left: -40px; margin-top: 5px;" />
-</p>
-
-
+<img [![Bitcoin ABC Logo](share/pixmaps/bitcoinabclogo.png "Bitcoin ABC")]([https://www.bitcoinabc.org](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1024px-Bitcoin.svg.png))/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&width=1000&lines=Hello+there,+my+name+is+Gabriel+Milanez;Im+16;Im+from+São+Paulo;Be+Free!+p2p+)](https://git.io/typing-svg)
 <div>
   <a href="https://github.com/gmilanezz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmilanezz&layout=compact&langs_count=7&theme=calm"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmilanezz&layout=compact&langs_count=7&theme=calm"/>
 </div><br><br>
 
 <p>atualmente aprendendo:</p>
@@ -33,3 +27,4 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
+ 
