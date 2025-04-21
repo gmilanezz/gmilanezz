@@ -14,14 +14,14 @@
   <img align="center" alt="gmilanezz-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div><br><br>
 
-<div align="center">
+<div>
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gmilanezz}/count.svg" /></p> 
 <br></div>
 
 ##
 
-<div align="center"> 
+<div> 
   <a href="https://www.linkedin.com/in/gabrielmilanez" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
