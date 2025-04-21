@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&width=1000&lines=Hello+there,+my+name+is+Gabriel+Milanez;Im+16;Im+from+São+Paulo;Be+Free!+p2p+₿)](https://git.io/typing-svg)
 <div>
   <a href="https://github.com/gmilanezz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmilanezz&layout=compact&langs_count=7&theme=calm"/>
-</div><br><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmilanezz&layout=compact&langs_count=7&theme=github_dark"/>
+</div><br>
 
 <p>atualmente aprendendo:</p>
   
@@ -14,9 +14,9 @@
   <img align="center" alt="gmilanezz-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div><br>
 
-<div>
-<br><p><b>Visitors Count</b></p>  
-<p><img src="https://profile-counter.glitch.me/{gmilanezz}/count.svg" /></p> 
+<div><br>
+  <p>Visitors Count</p>  
+  <p><img src="https://profile-counter.glitch.me/{gmilanezz}/count.svg" /></p> 
 </div>
 
 ##
