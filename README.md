@@ -1,6 +1,6 @@
 ## readme/gabriel milanez
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmilanezz&layout=compact&langs_count=7&theme=default&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00&hide_border=true&border_radius=10&bar_color=007f00"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmilanezz&layout=compact&langs_count=7&theme=default&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00ff00&hide_border=true&border_radius=10&bar_color=000"/>
 
 <p>actually learning:</p>
 <div style="display: inline-block">
