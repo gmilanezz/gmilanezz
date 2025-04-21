@@ -17,7 +17,7 @@
 <div>
 <br><p><b>Visitors Count</b></p>  
 <p><img src="https://profile-counter.glitch.me/{gmilanezz}/count.svg" /></p> 
-<br></div>
+</div>
 
 ##
 
