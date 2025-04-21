@@ -1,7 +1,6 @@
 ## readme/gabriel milanez
 
-<img [![Bitcoin ABC Logo](share/pixmaps/bitcoinabclogo.png "Bitcoin ABC")]([https://www.bitcoinabc.org](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1024px-Bitcoin.svg.png))/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&width=1000&lines=Hello+there,+my+name+is+Gabriel+Milanez;Im+16;Im+from+São+Paulo;Be+Free!+p2p+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&width=1000&lines=Hello+there,+my+name+is+Gabriel+Milanez;Im+16;Im+from+São+Paulo;Be+Free!+p2p+₿)](https://git.io/typing-svg)
 <div>
   <a href="https://github.com/gmilanezz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmilanezz&layout=compact&langs_count=7&theme=calm"/>
