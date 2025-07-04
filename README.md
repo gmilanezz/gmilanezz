@@ -4,7 +4,7 @@
 
 <p>
   Olá, meu nome é Gabriel Milanez, pode me chamar de Milanez. Eu tenho 17 anos e nasci e atualmente moro em São Paulo, Brasil. Estou no segundo ano do ensino médio técnico integrado a informática na Fiap School. Meu objetivo aqui no GitHub é registrar meus aprendizados durante o curso e os estudos por fora. Obrigado pela atenção! <br><br>
-<img src="https://flagcdn.com/w40/us.png" width="20"> Hello there, my name is Gabriel Milanez, but you can call me just like my last name. Im 17 and i borned, was raised and actually living in São Paulo, Brasil <img src="https://flagcdn.com/w40/br.png" width="20">. Im in the second high school year in Fiap School. My goal here is just spill my course and home' learnings. Thanks for your time. Be Free ₿
+<img src="https://flagcdn.com/w40/us.png" width="20"> Hello there, my name is Gabriel Milanez, but you can call me just like my last name. Im 17 and I borned, was raised in and Im actually living in São Paulo, Brasil <img src="https://flagcdn.com/w40/br.png" width="20">. Im in the second high school year at the Fiap School. My goal here is just spill my course and home' learnings. Thanks for your time. Be Free ₿
 </p>
 <h4 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
   Atualmente aprendendo: | <img src="https://flagcdn.com/w40/us.png" width="24" margin-left="100" alt="USA flag"> Actually Learning:
