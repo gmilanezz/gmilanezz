@@ -11,14 +11,11 @@
   <img align="center" alt="gmilanezz-phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gmilanezz-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
-
 ##
-
 <div> 
   <a href="https://www.linkedin.com/in/gabrielmilanez" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-
 ##
 <p>Be Free ₿</p>
 </div>
