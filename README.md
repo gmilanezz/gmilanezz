@@ -2,12 +2,10 @@
   README do Gabriel Milanez | <img src="https://flagcdn.com/w40/us.png" width="24" alt="USA flag"> Gabriel Milanez' README:
 </h1>
 
-<h3 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
-  Linguagens mais usadas: | <img src="https://flagcdn.com/w40/us.png" width="24" alt="USA flag"> Most coded languages:
-</h3>
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmilanezz&layout=compact&langs_count=7&theme=default&bg_color=000000&bg_opacity=30%&title_color=ffffff&text_color=ffffff&icon_color=00ff00&hide_border=true&border_radius=7.5"/>
-
+<p>
+  Olá, meu nome é Gabriel Milanez, pode me chamar de Milanez. Eu tenho 17 anos e nasci e atualmente moro em São Paulo, Brasil. Estou no segundo ano do ensino médio técnico integrado a informática na Fiap School. Meu objetivo aqui no GitHub é registrar meus aprendizados durante o curso e os estudos por fora. Obrigado pela atenção!
+<img src="https://flagcdn.com/w40/us.png" width="20"> Hello there, my name is Gabriel Milanez, but you can call me just like my last name. Im 17 and i borned, was raised and actually living in São Paulo, Brasil <img src="https://flagcdn.com/w40/br.png" width="20">. Im in the second high school year in Fiap School. My goal here is just spill my course and home' learnings. Thanks for your time. Be Free ₿
+</p>
 <h4 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
   Atualmente aprendendo: | <img src="https://flagcdn.com/w40/us.png" width="24" alt="USA flag"> Actually Learning:
 </h4>
