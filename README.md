@@ -1,6 +1,6 @@
-<h1 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
+<p style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
   README do Gabriel Milanez | <img src="https://flagcdn.com/w40/us.png" width="24" alt="USA flag"> Gabriel Milanez' README:
-</h1>
+</p>
 
 <h3 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
   Linguagens mais usadas: | <img src="https://flagcdn.com/w40/us.png" width="24" alt="USA flag"> Most coded languages:
