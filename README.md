@@ -1,6 +1,6 @@
-<p style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
+<h1 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
   README do Gabriel Milanez | <img src="https://flagcdn.com/w40/us.png" width="24" alt="USA flag"> Gabriel Milanez' README:
-</p>
+</h1>
 
 <h3 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
   Linguagens mais usadas: | <img src="https://flagcdn.com/w40/us.png" width="24" alt="USA flag"> Most coded languages:
@@ -8,9 +8,9 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmilanezz&layout=compact&langs_count=7&theme=default&bg_color=000000&bg_opacity=30%&title_color=ffffff&text_color=ffffff&icon_color=00ff00&hide_border=true&border_radius=7.5"/>
 
-<h5 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
+<h4 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
   Atualmente aprendendo: | <img src="https://flagcdn.com/w40/us.png" width="24" alt="USA flag"> Actually Learning:
-</h5>
+</h4>
 
 <div style="display">
   <img align="center" alt="gmilanezz-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
