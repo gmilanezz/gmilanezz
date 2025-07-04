@@ -7,7 +7,7 @@
 <img src="https://flagcdn.com/w40/us.png" width="20"> Hello there, my name is Gabriel Milanez, but you can call me just like my last name. Im 17 and i borned, was raised and actually living in São Paulo, Brasil <img src="https://flagcdn.com/w40/br.png" width="20">. Im in the second high school year in Fiap School. My goal here is just spill my course and home' learnings. Thanks for your time. Be Free ₿
 </p>
 <h4 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
-  Atualmente aprendendo: | <img src="https://flagcdn.com/w40/us.png" width="24" alt="USA flag"> Actually Learning:
+  Atualmente aprendendo: | <img src="https://flagcdn.com/w40/us.png" width="24" alt="USA flag">  Actually Learning:
 </h4>
 
 <div style="display">
