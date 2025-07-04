@@ -7,7 +7,6 @@
 <h1 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600; border-bottom: none; margin-bottom: 10px;">
   Actually Learning:
 </h1>
-
 <div style="display">
   <img align="center" alt="gmilanezz-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="gmilanezz-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
