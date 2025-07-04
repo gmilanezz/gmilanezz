@@ -1,10 +1,10 @@
 <h1 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
-  Gabriel Milanez' README:
+  Gabriel Milanez' README
 </h1>
 
 <h3 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
   Gabriel Milanez Most Used Languages:
-</h1>
+</h3>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmilanezz&layout=compact&langs_count=7&theme=default&bg_color=000000&bg_opacity=30%&title_color=ffffff&text_color=ffffff&icon_color=00ff00&hide_border=true&border_radius=7.5"/>
 
