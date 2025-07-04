@@ -1,16 +1,16 @@
 <h1 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
-  <img src="https://flagcdn.com/w40/br.png" width="24" alt="Brazil flag"> README do Gabriel Milanez <img src="https://flagcdn.com/w40/us.png" width="24" alt="USA flag"> Gabriel Milanez' README:
+  README do Gabriel Milanez | <img src="https://flagcdn.com/w40/us.png" width="24" alt="USA flag"> Gabriel Milanez' README:
 </h1>
 
-<h2 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
-  <img src="https://flagcdn.com/w40/br.png" width="24" alt="Brazil flag"> Linguagens mais codadas: <img src="https://flagcdn.com/w40/us.png" width="24" alt="USA flag"> Most coded languages:
-</h2>
+<h3 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
+  Linguagens mais usadas: | <img src="https://flagcdn.com/w40/us.png" width="24" alt="USA flag"> Most coded languages:
+</h3>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmilanezz&layout=compact&langs_count=7&theme=default&bg_color=000000&bg_opacity=30%&title_color=ffffff&text_color=ffffff&icon_color=00ff00&hide_border=true&border_radius=7.5"/>
 
-<h3 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
-  <img src="https://flagcdn.com/w40/br.png" width="24" alt="Brazil flag"> Atualmente aprendendo: <img src="https://flagcdn.com/w40/us.png" width="24" alt="USA flag"> Actually Learning:
-</h3>
+<h5 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
+  Atualmente aprendendo: | <img src="https://flagcdn.com/w40/us.png" width="24" alt="USA flag"> Actually Learning:
+</h5>
 
 <div style="display">
   <img align="center" alt="gmilanezz-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
