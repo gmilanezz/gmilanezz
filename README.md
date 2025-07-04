@@ -4,9 +4,9 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmilanezz&layout=compact&langs_count=7&theme=default&bg_color=000000&bg_opacity=30%&title_color=ffffff&text_color=ffffff&icon_color=00ff00&hide_border=true&border_radius=7.5"/>
 
-<div style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600; margin-bottom: 10px;">
+<p style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600; margin-bottom: 10px;">
   Actually Learning:
-</div>
+</p>
 <div style="display">
   <img align="center" alt="gmilanezz-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="gmilanezz-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
