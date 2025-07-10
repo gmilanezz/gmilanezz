@@ -10,18 +10,13 @@
   Atualmente aprendendo: | Actually Learning:
 </h4>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display">
 
   <img align="center" alt="gmilanezz-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="gmilanezz-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="gmilanezz-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="gmilanezz-phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gmilanezz-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-</div>
-
-<img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmilanezz&layout=compact&langs_count=7&theme=default&bg_color=000000&bg_opacity=10%&title_color=FFF&text_color=FFF&icon_color=00ff00&hide_border=true&border_radius=7.5&margin-right=300px"
-    style="margin-left: auto;"/>
 </div>
 
 ##
