@@ -26,7 +26,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmilanezz&layout=compact&langs_count=7&theme=default&bg_color=000000&bg_opacity=10%&title_color=FFF&text_color=FFF&icon_color=00ff00&hide_border=true&border_radius=7.5&margin-right=300px"
     style="margin-left: auto;" />
 </div>
-
 ##
 
   <a href="https://www.linkedin.com/in/gabrielmilanez" target="_blank">
