@@ -18,7 +18,6 @@
   <img align="center" alt="gmilanezz-phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gmilanezz-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
-<br><br>
 
 <h4 style="font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 600;">
   Línguas Mais Utilizadas: | Most Used Languages:
